@@ -1,0 +1,27 @@
+# Core Frameworks
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+
+# Model Context Protocol (MCP)
+mcp>=1.0.0
+
+# Web Search & APIs
+tavily-python>=0.5.0
+requests>=2.31.0
+geopy>=2.4.1
+
+# RAG & Vector Database
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+pypdf>=4.2.0
+langchain-text-splitters>=0.3.0
+
+# Utilities & Frontend
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+streamlit>=1.35.0
+rich>=13.7.0
+pytest>=8.2.0

@@ -1,0 +1,28 @@
+# TNAU Agritech Portal: Groundnut (Peanut) Production & Harvest Guide
+Source: TNAU Agritech Portal - Oilseeds Production Guide, Tamil Nadu Agricultural University
+Document ID: TNAU-AGRI-GROUNDNUT-2024-V1
+Crop: Groundnut / Peanut (Arachis hypogaea)
+
+## Section 1: Irrigation & Soil Moisture Management
+- Critical Growth Stages:
+  1. Flowering Stage (20-30 DAS): Light irrigation essential to facilitate uniform blooming.
+  2. Pegging & Pod Penetration Stage (35-50 DAS): Most critical moisture-sensitive phase. Dry soil hardens the surface and prevents peg entry into the ground, drastically lowering pod yield. Maintain soil moisture around 0.22 to 0.30 m³/m³.
+  3. Pod Development Stage (55-75 DAS): Regular moderate irrigation required for kernel swelling.
+- Irrigation Cessation:
+  - Stop irrigation 7 to 10 days before intended harvest to harden pod shells and prevent in-situ seed germination.
+
+## Section 2: Pest & Disease Control and Weather Rules
+- Key Diseases & Control:
+  - Tikka Leaf Spot (Cercospora arachidicola / C. personata): Common under humid conditions. Spray Hexaconazole 5% EC @ 2 ml/L (400 ml/acre) or Mancozeb 75% WP @ 2 g/L (400 g/acre).
+  - Spodoptera litura (Tobacco Caterpillar): Spray Chlorantraniliprole 18.5% SC @ 0.3 ml/L or Novaluron 10% EC @ 1.5 ml/L.
+- Strict Weather Spraying Guardrails:
+  - Avoid spraying during periods when ambient wind speed is above 15 km/h.
+  - Never spray when rain is imminent within 4 to 6 hours.
+
+## Section 3: Harvesting & Post-Harvest Weather Constraints
+- Maturity Indicators & Best Harvesting Time:
+  - Crop maturity: 75-80% of pods show inner shell blackish-brown coloration upon cracking.
+  - Harvesting Weather Rules: Harvest ONLY during clear, dry weather. Soil should be neither excessively dry (pods will snap off and remain in ground) nor overly wet/muddy (soil clings to pods, causing Aspergillus flavus infection and aflatoxin contamination).
+- Drying & Storage:
+  - Dry harvested pods in sun for 3-5 days on tarpaulin sheets until moisture drops below 9%.
+  - If unseasonal rain is forecasted within 3 days, immediately cover harvested heaps or move to covered sheds to prevent aflatoxin buildup.

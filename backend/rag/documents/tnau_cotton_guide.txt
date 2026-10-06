@@ -1,0 +1,28 @@
+# TNAU Agritech Portal: Cotton Crop Production & Weather Risk Guide
+Source: TNAU Agritech Portal - Crop Production Guide (Cotton)
+Document ID: TNAU-AGRI-COTTON-2024-V1
+Crop: Cotton (Gossypium hirsutum / arboreum)
+
+## Section 1: Irrigation & Soil Moisture Guidelines
+- Critical Growth Stages:
+  1. Square Formation Stage: Sensitive to water stress; maintain 50-60% available soil moisture.
+  2. Flowering & Boll Formation: Maximum water requirement period. Moisture deficit causes square and boll shedding. Irrigate at 10-14 days interval in black soils and 7-9 days interval in red soils.
+  3. Boll Maturation / Bursting Stage: Stop irrigation completely when 70-80% bolls have opened. Excessive late moisture leads to vegetative regrowth and stained lint.
+- Moisture & Drainage Rules:
+  - Cotton is highly sensitive to waterlogging (flooding for >24 hours leads to root hypoxia, wilting, and flower shedding).
+  - If heavy rain (>30 mm) or soil moisture > 0.38 m³/m³ is detected, immediately dig out drainage channels in the furrow interspaces.
+
+## Section 2: Pest & Disease Control and Weather Preconditions
+- Key Pests & Recommended Control:
+  - Sucking Pests (Aphids, Jassids, Thrips, Whitefly): Spray Flonicamid 50 WG @ 0.3 g/L or Thiamethoxam 25 WG @ 0.2 g/L (40 g/acre).
+  - American Bollworm (Helicoverpa armigera): Spray Emamectin Benzoate 5% SG @ 0.4 g/L (80 g/acre) or Spinetoram 11.7 SC @ 0.8 ml/L.
+  - Cotton Boll Rot / Leaf Spot (Alternaria): Spray Copper Oxychloride 50 WP @ 2.5 g/L or Mancozeb 75 WP @ 2 g/L.
+- Strict Weather Spraying Guardrails:
+  - Wind Speed Threshold: Do NOT spray if wind speed exceeds 12-15 km/h to prevent severe drift on non-target vegetation.
+  - Precipitation Threshold: NEVER apply foliar pesticides or micro-nutrients when rain is forecast within 6 hours. Rain will wash off active ingredients.
+  - High Humidity Warning: When relative humidity > 85% and cloudy conditions persist for 3 consecutive days, anticipate high incidence of boll rot and sucking pest build-up.
+
+## Section 3: Harvesting & Post-Harvest Weather Rules
+- Cotton Picking Conditions:
+  - Pick only fully burst, dry bolls between 10:00 AM and 3:00 PM after morning dew evaporates.
+  - Do NOT pick during or immediately after rain or morning fog; damp cotton develops mold and yellow discoloration, reducing market value.

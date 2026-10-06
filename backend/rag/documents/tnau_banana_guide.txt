@@ -1,0 +1,27 @@
+# TNAU Agritech Portal: Banana Plantation & Storm Protection Guide
+Source: TNAU Agritech Portal - Horticulture Division, TNAU
+Document ID: TNAU-AGRI-BANANA-2024-V1
+Crop: Banana (Musa acuminata / Grand Naine / Poovan / Rasthali / Nendran)
+
+## Section 1: Water Requirement & Drainage
+- Irrigation Schedule:
+  - Banana is a water-loving crop with shallow feeder roots. Maintain soil moisture around 0.28 to 0.35 m³/m³.
+  - Irrigate at 4-6 days interval in sandy loam soils and 7-8 days interval in clay soils.
+  - Critical stages: Shooting, Bunch Emergence, and Fruit Development.
+- Waterlogging Risk:
+  - Banana plants cannot tolerate standing water for more than 48 hours; stagnant water causes root rot (Erwinia soft rot) and rapid yellowing of lower leaves. Ensure trench drainage between rows.
+
+## Section 2: Wind, Gale & Cyclone Emergency Advisory
+- High Wind & Cyclone Vulnerability:
+  - Banana pseudo-stems are herbaceous, heavy with bunches, and highly prone to snapping or uprooting when wind gusts exceed 30 km/h.
+- Protective Action Checklist:
+  1. Propping: Provide two-pole bamboo or casuarina propping to all bunch-bearing plants in the form of an inverted 'V'.
+  2. Earth Up: Earth up soil around the base of the stool to a height of 25-30 cm to improve root grip.
+  3. De-suckering: Remove excess side suckers to reduce wind resistance and plant weight before cyclone seasons.
+  4. Trimming: Prune only dry/hanging infected leaves to reduce sail area while retaining active green leaves.
+  5. Trench Clearing: Deepen boundary trenches to ensure quick evacuation of runoff floodwaters.
+
+## Section 3: Disease Management & Spraying Guidelines
+- Sigatoka Leaf Spot (Cercospora musae):
+  - In cloudy, humid weather (>80% RH), spray Propiconazole 25 EC @ 1 ml/L + mineral oil (10 ml/L) or Carbendazim 50 WP @ 1 g/L.
+  - Guardrail: Do NOT spray when wind speed > 15 km/h or if rainfall is anticipated within 4 hours.

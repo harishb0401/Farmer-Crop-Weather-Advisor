@@ -1,0 +1,30 @@
+# TNAU Agritech Portal: Paddy (Rice) Comprehensive Agronomic & Weather Management Guide
+Source: TNAU Agritech Portal - Department of Agronomy, Tamil Nadu Agricultural University
+Document ID: TNAU-AGRI-PADDY-2024-V1
+Crop: Paddy (Oryza sativa)
+
+## Section 1: Water Management & Irrigation Scheduling
+- Critical Water Requirement Stages:
+  1. Vegetative Stage (Tillering): Maintain shallow standing water depth of 2 to 3 cm.
+  2. Panicle Initiation to Flowering (Booting & Heading): Highly sensitive stage. Maintain 5 cm standing water. Water stress at this stage causes high spikelet sterility.
+  3. Grain Filling & Ripening Stage: Maintain saturation to thin water film (1-2 cm). Withhold irrigation 7 to 10 days before harvest to facilitate uniform grain drying and mechanical harvesting.
+- Weather-Responsive Irrigation Rule:
+  - If cumulative 3-day rainfall forecast exceeds 20 mm or past 3 days rainfall exceeds 30 mm, postpone irrigation and open drainage channels to prevent lodging.
+  - If estimated soil moisture exceeds 0.35 m³/m³ (or saturation > 80%), avoid standing water inundation unless preparing nursery.
+  - Alternating Wetting and Drying (AWD): In water-scarce conditions, irrigate to 5 cm depth only after water level drops to 15 cm below soil surface (observed using field water tube).
+
+## Section 2: Pest and Disease Management & Chemical Spraying Rules
+- Key Pests & Recommended Control:
+  - Yellow Stem Borer: Economic Threshold Level (ETL) is 2 egg masses/m² or 10% dead hearts. Spray Chlorantraniliprole 18.5% SC @ 0.3 ml/L (60 ml/acre) or Cartap Hydrochloride 50% SP @ 2 g/L (400 g/acre).
+  - Rice Blast (Magnaporthe oryzae): ETL is 1% leaf area affected. Apply Tricyclazole 75% WP @ 0.6 g/L (120 g/acre) or Azoxystrobin 25 SC @ 1 ml/L.
+  - Brown Plant Hopper (BPH): Spray Pymetrozine 50% WDG @ 0.6 g/L. Avoid synthetic pyrethroids which cause pest resurgence.
+- Strict Weather Spraying Guardrails:
+  - Wind Speed Threshold: NEVER spray when wind speed exceeds 15 km/h to prevent spray drift and wastage.
+  - Rainfall Threshold: Do NOT spray if rainfall is forecasted within the next 4 to 6 hours or if rainfall probability is greater than 50%.
+  - Temperature & Humidity: Spray early morning (7:00 AM - 10:00 AM) or late afternoon (3:30 PM - 5:30 PM) to avoid pesticide photodegradation under strong midday sunlight (>35°C).
+
+## Section 3: Severe Weather, Cyclone & Lodging Protection
+- Cyclone / Heavy Storm Measures:
+  - Ensure unhindered drainage in low-lying delta areas (e.g. Cauvery delta / Thanjavur / Nagapattinam).
+  - If paddy is in dough/maturity stage and heavy storm is forecasted, harvest prematurely at 80% grain maturity to save the crop from submersion and viviparous germination.
+  - Drain water completely 48 hours prior to severe storm landfall to strengthen root anchorage and reduce lodging susceptibility.
